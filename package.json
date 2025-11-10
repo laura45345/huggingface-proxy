@@ -1,13 +1,6 @@
 {
   "name": "huggingface-proxy",
   "version": "1.0.0",
-  "description": "Proxy simples para Hugging Face (Gemma)",
   "main": "api/chat.js",
-  "type": "module",
-  "scripts": {
-    "start": "node api/chat.js"
-  },
-  "dependencies": {
-    "node-fetch": "^3.3.2"
-  }
+  "type": "module"
 }
